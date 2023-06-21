@@ -1,1 +1,1 @@
-# neural_networks
+# Neural Networks Coursework
