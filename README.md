@@ -1,9 +1,8 @@
 # Neural Networks Coursework
 
-### The aim of this coursework is to make two models for predictions.
-### Multilayer Perceptron and Support Vector Machines were created 
-### If you want to test the already created models, you can pickle them
-### or use pytorch loading in test_models.ipynb
+### The aim of this coursework is to make two models for predictions. Multilayer Perceptron and Support Vector Machines were created 
+If you want to test the already created models, you can pickle them or use pytorch loading in test_models.ipynb
+
 
 The required structure:
 - Siergiej_Tiukawkin_individual_coursework.ipynb
